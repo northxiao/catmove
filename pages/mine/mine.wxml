@@ -1,0 +1,10 @@
+<!--pages/mine/mine.wxml-->
+<view class="count1">
+     <text>我的订单</text>
+     <text>优惠券</text>
+     <text>影院会员卡</text>
+</view>
+<view class="count2">
+     <text>想看的电影</text>
+     <text>看过的电影</text>
+</view>

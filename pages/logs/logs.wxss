@@ -1,0 +1,12 @@
+.v1 .t2{
+  margin-left: 20rpx;
+}
+.v2 .t1{
+  float: left;
+}
+.v2 .t2{
+  float: right;
+}
+.v3{
+  clear: both;
+}

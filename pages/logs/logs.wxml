@@ -1,0 +1,21 @@
+<!--logs.wxml-->
+<view>
+  <view class="v1">
+   <text class="t1">11</text>
+   <text class="t2">22</text>
+  </view>
+  <view class="v2">
+    <text class="t1">aaaaaaaaaa</text>
+    <text class="t2">300m</text>
+  </view>
+  <view class="v3">
+    <text>座</text>
+    <text>4k厅</text>
+    <text>小吃</text>
+  </view>
+  <view class="v4">
+    <text>惠</text>
+    <text>ddddddddddd</text>
+  </view>
+   
+</view>
